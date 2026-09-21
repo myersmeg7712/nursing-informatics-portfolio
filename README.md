@@ -23,12 +23,17 @@ This portfolio demonstrates my developing skills in nursing informatics, healthc
 ### Patient Falls Analysis
 Analysis of patient fall data to identify trends, patterns, and potential contributing factors.
 
-**Tools:** Excel, SQL, Data Visualization
+**Tools:** Excel, PivotTables, Interactive Dashboard, Data Visualization
 
-### Hospital Admissions & Length of Stay
-Analysis of hospital admission data to examine patient demographics, length of stay, and admission trends.
+[View Project](https://github.com/myersmeg7712/patient-falls-analysis)
 
-**Tools:** SQL, Excel, Data Visualization
+### Hospital Admissions SQL Analysis
+
+SQL analysis of fictional hospital admission data exploring hospital utilization, length of stay, and 30-day readmission patterns across patient populations and discharge settings.
+
+**Tools:** SQL, Google BigQuery, Healthcare Data Analysis
+
+[View Project](https://github.com/myersmeg7712/hospital-admissions-sql-analysis)
 
 ### Healthcare-Associated Infection Analysis
 Analysis of healthcare-associated infection data to identify patterns and potential risk factors.
