@@ -36,9 +36,12 @@ SQL analysis of fictional hospital admission data exploring hospital utilization
 [View Project](https://github.com/myersmeg7712/hospital-admissions-sql-analysis)
 
 ### Healthcare-Associated Infection Analysis
-Analysis of healthcare-associated infection data to identify patterns and potential risk factors.
 
-**Tools:** R, Tableau, Data Analysis
+Analysis of fictional hospital data to identify healthcare-associated infection patterns, device-related infection rates, and potential contributing factors using R and Tableau.
+
+**Tools:** R, RStudio, dplyr, Tableau, Healthcare Data Analysis
+
+[View Project](https://github.com/myersmeg7712/healthcare-associated-infection-analysis)
 
 ### EHR Workflow Improvement
 Clinical informatics project examining an electronic health record workflow, identifying bottlenecks, and proposing workflow improvements.
