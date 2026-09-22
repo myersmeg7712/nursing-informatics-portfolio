@@ -1,22 +1,20 @@
 # Meghan Myers
-### Registered Nurse | Aspiring Nursing Informatics Professional
 
-I am a Registered Nurse with clinical experience in critical care, nursing leadership, quality improvement, and healthcare data analysis.
+### Registered Nurse | Nursing Informatics & Healthcare Data Analytics
 
-This portfolio demonstrates my developing skills in nursing informatics, healthcare analytics, clinical workflow improvement, and data visualization.
+Registered Nurse with 11 years of critical care experience and leadership experience in the Neuro ICU, combining clinical expertise with healthcare data analysis, EHR workflow improvement, and process optimization.
 
-## Skills
+This portfolio demonstrates hands-on experience using Excel, SQL, Google BigQuery, R, RStudio, Tableau, and clinical workflow analysis to evaluate healthcare data and identify opportunities to improve patient care, documentation, and clinical processes.
 
-- Clinical workflow analysis
-- Healthcare data analysis
-- Excel
-- SQL
-- R / RStudio
-- Tableau
-- Data visualization
-- Quality improvement
-- Electronic health record workflows
-- Clinical problem solving
+## Technical Skills
+
+**Data Analysis:** Excel, PivotTables, SQL, Google BigQuery, R, RStudio, dplyr
+
+**Data Visualization:** Tableau, Excel Dashboards
+
+**Clinical Informatics:** EHR Workflow Analysis, Process Improvement, Clinical Documentation, Patient Safety
+
+**Healthcare Analytics:** Quality Metrics, Readmission Analysis, Infection Prevention Metrics, Device-Day Rates
 
 ## Portfolio Projects
 
