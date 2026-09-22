@@ -44,6 +44,9 @@ Analysis of fictional hospital data to identify healthcare-associated infection 
 [View Project](https://github.com/myersmeg7712/healthcare-associated-infection-analysis)
 
 ### EHR Workflow Improvement
-Clinical informatics project examining an electronic health record workflow, identifying bottlenecks, and proposing workflow improvements.
 
-**Tools:** Workflow Mapping, Data Analysis, Clinical Process Improvement
+Clinical informatics workflow analysis evaluating a fictional EHR admission documentation process. The project identifies workflow inefficiencies, proposes a redesigned process, and outlines a 30-day pilot to evaluate efficiency, documentation quality, medication safety, and stakeholder impact.
+
+**Skills:** EHR Workflow Analysis, Nursing Informatics, Process Improvement, Clinical Workflow Optimization, Patient Safety
+
+[View Project](https://github.com/myersmeg7712/ehr-workflow-improvement)
